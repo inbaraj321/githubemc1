@@ -1,5 +1,7 @@
 git add text file(terminal cmd): push or any modification
 
+ git clone (link)
+
 insert>add>commit>push
 
    1.cd of floder(cd githubemc1)
