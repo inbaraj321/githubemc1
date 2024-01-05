@@ -13,3 +13,5 @@ insert>add>commit>push
 git get text file(terminal cmd): pull
    
   1.git pull
+
+cd .. (backward floder cmd)
