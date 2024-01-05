@@ -1,1 +1,13 @@
-hello github!
+git add text file(terminal cmd): push
+
+insert>add>commit>push
+
+   1.cd of floder(cd githubemc1)
+   2.git add text2.txt(add a txt file)
+   3.git status
+   4.git commit -m "text2.txt added"(to commit the added file)
+   5.git push origin main (if push the file on main floder)
+
+git get text file(terminal cmd): pull
+   
+  1.git pull
