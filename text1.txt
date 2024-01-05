@@ -1,4 +1,4 @@
-git add text file(terminal cmd): push
+git add text file(terminal cmd): push or any modification
 
 insert>add>commit>push
 
